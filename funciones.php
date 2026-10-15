@@ -10,6 +10,6 @@ function precioConIva($precio, $iva) {
 }
 
 function saludarJuanjo(string $nombre){
-    return ("Hola {$nombre} ¿Como estas?");
+    retn ("Hola {$nombre} ¿Como estas?")
 }
 ?>
